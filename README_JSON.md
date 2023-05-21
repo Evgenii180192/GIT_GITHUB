@@ -1,6 +1,4 @@
 # JSON
-This repository is for practicing GIT commands
-# JSON
 This repository is for practicing `GIT commands` and writing `JSON` documents.
 1. Создать внешний репозиторий c названием JSON - `Заходим на свой GitHub аккаунт создаем новый репозиторий с названием JSON делаем его публичным добавляем Redmi файл`.
 2. Клонировать репозиторий JSON на локальный компьютер - `git clone https://github.com/Evgenii180192/JSON.git`

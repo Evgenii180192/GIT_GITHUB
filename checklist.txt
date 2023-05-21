@@ -1,0 +1,6 @@
+1. Build
+2. Environment
+3. Test Type
+4. List checking
+5. Actual result
+6. Comment (link on video)

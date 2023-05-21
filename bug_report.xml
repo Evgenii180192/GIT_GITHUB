@@ -1,0 +1,12 @@
+<BugReport>
+  <ID> 123FG7 </ID>
+  <Summary> The button Start on the main page has an error in the name </Summary>
+  <Description> When opening a website on the main page in the upper right corner, the Start button has an error in the name (link to requirements) </Description>
+  <PlaybackSteps> Open website on main page </PlaybackSteps>
+  <Reproducibility> Google Chrome version 112.0.5615.138 </Reproducibility>
+  <Severyty> Trivial </Severyty>
+  <Priority> Low </Priority>
+  <ActualResult> Strt </ActualResult>
+  <ExpectedResult> Start </ExpectedResult>
+  <Attachment> Screenshot </Attachment>
+</BugReport>

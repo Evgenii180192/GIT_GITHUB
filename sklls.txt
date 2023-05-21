@@ -1,0 +1,1 @@
+This course will cover the following skills: git, Bash, GitHub, Postman, Chares, Fiddler, Android Studio, Jmeter, Devtools, basic testing.

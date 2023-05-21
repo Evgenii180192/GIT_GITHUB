@@ -1,0 +1,11 @@
+"bug report" : [{"ID" : "12F4"},
+                {"Summary" : "The button Start on the main page has an error in the name"},
+                {"Description" : "When opening a website on the main page in the upper right corner, the Start button has an error in the name (link to requirements)"},                 
+                {"Playback steps" : "Open website on main page"},
+                {"Reproducibility" : "Google Chrome version 112.0.5615.138"},
+                {"Severyty" : "Trivial"},
+                {"Priority" : "Low"},
+                {"Actual result" : "Strt"},
+                {"Expected Result" : "Start"},
+                {"Attachment" : "Screenshot"}
+               ]

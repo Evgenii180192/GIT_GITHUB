@@ -1,0 +1,14 @@
+<CourseSkills>
+	<SkillOne>git</SkillOne>
+	<SkillTwo>Bash</SkillTwo>
+	<SkillThree>GitHub</SkillThree>
+	<SkillFour>Postman</SkillFour>
+	<SkillFive>SQL</SkillFive>
+	<SkillSix>Charles</SkillSix>
+	<SkillSeven>Fiddler</SkillSeven>
+	<SkillEight>Android Studio</SkillEight>
+	<SkillNine>Jmeter</SkillNine>
+	<SkillTen>Devtools</SkillTen>
+	<SkillEleven>Basic testing</SkillEleven>
+</CourseSkills>
+

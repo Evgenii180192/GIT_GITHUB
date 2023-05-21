@@ -1,0 +1,12 @@
+# Bug report:
+1. ID: 12F4
+2. Summary: The button Start on the main page has an error in the name.
+3. Description: When opening a website on the main page in the upper right corner, the Start button has an error in the name (link to requirements).                
+4. Playback steps: Open website on main page.
+5. Reproducibility: Google Chrome version 112.0.5615.138.
+6. Severyty: Trivial.
+7. Priority: Low.
+8. Actual result: Strt.
+9. Expected Result: Start.
+10. Attachment: Screenshot.
+               ]
